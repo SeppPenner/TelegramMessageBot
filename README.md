@@ -1,7 +1,7 @@
 TelegramMessageBot
 ====================================
 
-TelegramMessageBot is a project to send a message from a bot to a Telegram chat. The script was written and tested in Python 3.7.4.
+TelegramMessageBot is a project to send a message from a bot to a Telegram chat. The script was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/aguev1q9qr3en4dd?svg=true)](https://ci.appveyor.com/project/SeppPenner/telegrammessagebot)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TelegramMessageBot.svg)](https://github.com/SeppPenner/TelegramMessageBot/issues)
@@ -50,5 +50,4 @@ python bot.py
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (2018-10-04)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/TelegramMessageBot/blob/master/Changelog.md).
